@@ -100,7 +100,7 @@ function App() {
 						marginTop: "100px",
 					}}
 				>
-					Type the name
+					Type a name [example: your name]
 				</h3>
 				<div className="flex flex-col justify-center items-start md:flex-nowrap">
 					<div className="flex gap-2 items-start h-[100px]">
