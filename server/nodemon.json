@@ -1,0 +1,5 @@
+{
+	"exec": "tsx --env-file .env src/index.ts",
+	"watch": ["src"],
+	"ext": "ts, js"
+}
